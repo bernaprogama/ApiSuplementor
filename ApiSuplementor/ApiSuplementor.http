@@ -1,0 +1,6 @@
+@ApiSuplementor_HostAddress = http://localhost:5076
+
+GET {{ApiSuplementor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
